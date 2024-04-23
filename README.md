@@ -1,4 +1,4 @@
-- 👋 Hi
+👋 Hi,
 - # Hello, World! 
 
 I'm Ankit Verma, a passionate Data Analyst!
@@ -28,7 +28,7 @@ I'm a budding Data Analyst with a passion for uncovering insights from data. Wit
 
 - **Bachelor's Degree in Marine Engineering** - from Chennai (2018 - 2022)
 - **Certification in Data science and Machine learning(DSML)** -
-Currently pursuing Data Science and Machine Learning from Scaler.
+Currently pursuing Data Science and Machine Learning from Scaler. or Developing required skills for the DSML.
 
 ## 📈 Projects-
 I've worked on multiple projects which all were added to the GitHub repository.
