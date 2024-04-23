@@ -1,45 +1,35 @@
-- 👋 Hi, I’m @ankit-verma2000
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-# Hello, World! 👋
+- 👋 Hi, I’m Ankit Verma.
+# Hello, World! 
 
-I'm [Your Name], a passionate Data Analyst!
+I'm Ankit Verma, a passionate Data Analyst!
 
-## 📊 About Me
+## 📊 About Me:
 
 I specialize in turning data into actionable insights. With a strong background in statistics and business, I use analytics tools and programming languages to help businesses make data-driven decisions.
 
-## 💼 Experience
-
-- **Data Analyst** at XYZ Company (20XX - Present)
-- **Junior Data Analyst** at ABC Corporation (20XX - 20XX)
 
 ## 🛠️ Skills
 
-- **Languages**: Python, SQL, R
+- **Languages**: Python, SQL
 - **Tools**: Tableau, Power BI, Excel
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 ## 🎓 Education
 
-- **Bachelor's Degree in Computer Science** - University Name (20XX - 20XX)
-- **Certification in Data Analytics** - Course Provider (20XX)
+- **Bachelor's Degree in Marine Engineering** - from Chennai (2018 - 2022)
+- **Certification in Data science and Machine learning(DSML)** -
+Currently pursuing Data Science and Machine Learning from Scaler
 
-## 📈 Projects
-
-- **Project 1**: Brief description of the project and the results achieved.
-- **Project 2**: Brief description of the project and the results achieved.
+## 📈 Projects-
+I've worked on multiple projects which all were added to the GitHub repository.
 
 ## 📫 Contact Me
 
-- **LinkedIn**: Your LinkedIn Profile
-- **Email**: your.email@example.com
-
-
+- **LinkedIn**: [https://www.linkedin.com/in/ankit-verma-197284261]
+- **Email**: ankit092000@gmail.com
+- **HackerRank** : [https://www.hackerrank.com/profile/ankit092000]
+- **Leetcode**:[https://leetcode.com/ankit092000/]
+- **Scaler** : https://www.scaler.com/academy/profile/0989823213fa/
 <!---
 ankit-verma2000/ankit-verma2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
