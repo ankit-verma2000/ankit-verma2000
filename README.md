@@ -1,52 +1,76 @@
-👋 Hi,
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ankit-verma2000&color=yellow" />
+</p>
 
+<h1 align="center">Hi 👋, I'm Ankit Verma</h1>
+<h3 align="center">Data Analyst | SQL • Python • Power BI • Machine Learning</h3>
 
-I'm Ankit Verma, a passionate Data Analyst!
+---
 
-Data Analyst | SQL | Python | Power BI
+## 🚀 About Me
 
+- 🎯 Data Analyst with strong business and analytical mindset  
+- 📊 Passionate about transforming raw data into actionable insights  
+- 🧠 Strong in SQL querying, EDA, and data storytelling  
+- 🤖 Exploring Machine Learning & Predictive Modeling  
+- 📈 Interested in solving real-world business problems using data  
 
-## 📊 About Me:
+---
 
-I'm a budding Data Analyst with a passion for uncovering insights from data. With a strong foundation in statistics and business, I leverage analytics tools and programming languages to assist businesses in making data-driven decisions. Here's a bit more about me:
+## 🛠️ Tech Stack
 
-- **Eager Learner**:I bring fresh perspectives and an eagerness to learn and grow. I continuously seek out new learning opportunities to stay updated with the latest data analysis trends and tools.
+### 💻 Languages
+`Python` • `SQL`
 
-- **Problem Solver**: I enjoy tackling complex problems and have honed my problem-solving skills through various academic problems, different websites (like Leetcode, hacker rank, et..), and some projects.
+### 📊 Visualization & Tools
+`Power BI` • `Tableau` • `Excel`
 
-- **Technical Proficiency**: I have hands-on experience with Python, SQL, etc.. and am proficient in data visualization tools like Tableau and Power BI.
+### 📚 Libraries
+`Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-learn`
 
-- **Analytical Mindset**: Through Learning and solving multiple problems I have been equipped with a strong analytical mindset and the ability to think critically, making me well-suited for a role in data analysis.
+---
 
-- **Project Experience**: I have worked on several data analysis projects during my coursework, where I applied statistical methods to real-world data, created visualizations, and presented actionable insights.
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankit-verma2000&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-verma2000&layout=compact&theme=default" height="150"/>
+</p>
 
-## 🛠️ Skills
+---
 
-- **Languages**: Python, SQL
-- **Tools**: Tableau, Power BI, Excel
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+## 📂 Featured Work
+
+- 📊 Customer Churn Analysis  
+- 📈 Revenue & Sales Insights  
+- 🧑‍💼 HR Analytics Dashboard  
+- 🛒 E-commerce Data Analysis  
+- 🤖 Machine Learning Classification Projects  
+
+👉 Explore all projects in my repositories.
+
+---
 
 ## 🎓 Education
 
-- **Bachelor's Degree in Marine Engineering** - from Chennai (2018 - 2022)
-- **Certification in Data science and Machine learning(DSML)** -
-Currently pursuing Data Science and Machine Learning from Scaler.
+- 🎓 B.Tech in Marine Engineering (2018–2022)  
+- 📘 Data Science & Machine Learning – Scaler  
 
-## 📈 Projects-
-I've worked on multiple projects which all were added to the GitHub repository.
+---
 
-## 📫 Contact Me
+## 💻 Coding Platforms
 
-- **LinkedIn**: https://www.linkedin.com/in/ankitvermads/
-- **Email**: ankit092000@gmail.com
-## 💻 My Coding Platforms: 
-- **HackerRank** : https://www.hackerrank.com/profile/ankit092000
-- **Leetcode**: https://leetcode.com/ankit092000/
-- **Scaler** : https://www.scaler.com/academy/profile/0989823213fa/
-<!---
-ankit-verma2000/ankit-verma2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔹 HackerRank – https://www.hackerrank.com/profile/ankit092000  
+- 🔹 LeetCode – https://leetcode.com/ankit092000/  
+- 🔹 Scaler – https://www.scaler.com/academy/profile/0989823213fa/  
 
-![Profile Views](https://komarev.com/ghpvc/?username=ankit-verma2000&color=yellow)
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn – https://www.linkedin.com/in/ankitvermads/  
+- 📧 Email – ankit092000@gmail.com  
+
+---
+
+⭐ Always open to data-driven opportunities and impactful collaborations.
