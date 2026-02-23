@@ -1,10 +1,10 @@
 👋 Hi,
 
-![Profile Views](https://komarev.com/ghpvc/?username=ankit-verma2000&color=yellow)
+
+I'm Ankit Verma, a passionate Data Analyst!
 
 Data Analyst | SQL | Python | Power BI
 
-I'm Ankit Verma, a passionate Data Analyst!
 
 ## 📊 About Me:
 
@@ -48,3 +48,5 @@ I've worked on multiple projects which all were added to the GitHub repository.
 ankit-verma2000/ankit-verma2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![Profile Views](https://komarev.com/ghpvc/?username=ankit-verma2000&color=yellow)
