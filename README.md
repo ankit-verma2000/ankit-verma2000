@@ -1,6 +1,6 @@
 👋 Hi,
 
-![Profile Views](https://komarev.com/ghpvc/?username=ankitverma&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=ankit-verma2000&color=yellow)
 
 Data Analyst | SQL | Python | Power BI
 
