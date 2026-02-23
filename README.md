@@ -39,22 +39,14 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit-verma2000&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-verma2000&layout=compact&theme=default" height="150"/>
-</p>
-
----
-
 ## 📂 Featured Work
 
-- 📊 Customer Churn Analysis  
-- 📈 Sales & Revenue Insights  
+- 📊 Target -SQL Analysis  
+- 📈 Uber-Data-analysis- Power BI 
 - 🧑‍💼 HR Analytics Dashboard  
-- 🛒 E-commerce Data Analysis  
-- 🤖 Machine Learning Classification Projects  
+- 🛒 Telecom-churn Data Analysis  
+- 🤖 Business Case Netflix(EDA)
+- 🚴🏿‍♂️ Business-Case-Yulu
 
 ---
 
