@@ -1,5 +1,8 @@
 👋 Hi,
-- # Hello, World! 
+
+![Profile Views](https://komarev.com/ghpvc/?username=ankitverma&color=yellow)
+
+Data Analyst | SQL | Python | Power BI
 
 I'm Ankit Verma, a passionate Data Analyst!
 
