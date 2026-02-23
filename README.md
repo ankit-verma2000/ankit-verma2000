@@ -2,18 +2,29 @@
   <img src="https://komarev.com/ghpvc/?username=ankit-verma2000&color=yellow" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Ankit Verma</h1>
-<h3 align="center">Data Analyst | SQL • Python • Power BI • Machine Learning</h3>
+<h1 align="center">
+  Hi 👋, I'm Ankit Verma
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Machine+Learning+Enthusiast;Turning+Data+into+Business+Insights" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Data%20Analyst%20Roles-black?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎯 Data Analyst with strong business and analytical mindset  
-- 📊 Passionate about transforming raw data into actionable insights  
-- 🧠 Strong in SQL querying, EDA, and data storytelling  
+- 🎯 Data Analyst with strong business & analytical mindset  
+- 📊 Skilled in SQL querying, EDA, dashboarding & storytelling  
 - 🤖 Exploring Machine Learning & Predictive Modeling  
-- 📈 Interested in solving real-world business problems using data  
+- 📈 Passionate about solving real-world business problems using data  
+- 💡 Transitioned from Marine Engineering to Data Analytics  
 
 ---
 
@@ -42,12 +53,10 @@
 ## 📂 Featured Work
 
 - 📊 Customer Churn Analysis  
-- 📈 Revenue & Sales Insights  
+- 📈 Sales & Revenue Insights  
 - 🧑‍💼 HR Analytics Dashboard  
 - 🛒 E-commerce Data Analysis  
 - 🤖 Machine Learning Classification Projects  
-
-👉 Explore all projects in my repositories.
 
 ---
 
@@ -58,7 +67,7 @@
 
 ---
 
-## 💻 Coding Platforms
+## 💻 Coding Profiles
 
 - 🔹 HackerRank – https://www.hackerrank.com/profile/ankit092000  
 - 🔹 LeetCode – https://leetcode.com/ankit092000/  
@@ -73,4 +82,4 @@
 
 ---
 
-⭐ Always open to data-driven opportunities and impactful collaborations.
+⭐ Actively seeking Data Analyst opportunities where I can create measurable business impact.
